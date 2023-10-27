@@ -8,17 +8,17 @@ We write our own program to calibrate an RGB camera using the SVD routine.
 Our program takes as input a list of 3D coordinates with their corresponding 2D pixel coordinates and outputs the 3x4 calibration matrix on the screen. Similarly, the program also print the average errors (difference between projected points and original pixels).
 
 ## Useful resources:
-[OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-[OpenCV: Camera Calibration](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
+* [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+* [OpenCV: Camera Calibration](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
 
 ### Opencv on google colab:
-[Getting Started with OpenCV - Colaboratory](https://colab.research.google.com/github/farrokhkarimi/OpenCV/blob/master/Getting_Started_with_OpenCV.ipynb)
-[OpenCV installation Google Colab - Stack Overflow](https://stackoverflow.com/questions/48420659/opencv-installation-google-colab)
+* [Getting Started with OpenCV - Colaboratory](https://colab.research.google.com/github/farrokhkarimi/OpenCV/blob/master/Getting_Started_with_OpenCV.ipynb)
+* [OpenCV installation Google Colab - Stack Overflow](https://stackoverflow.com/questions/48420659/opencv-installation-google-colab)
 
 ### Linear Algebra Python:
-[numpy.linalg.svd](https://numpy.org/doc/stable/reference/generated/numpy.linalg.svd.html)
-[Gram–Schmidt process](https://www.section.io/engineering-education/singular-value-decomposition-in-python/)
-[numpy.linalg.norm](https://numpy.org/doc/stable/reference/generated/numpy.linalg.norm.html)
+* [numpy.linalg.svd](https://numpy.org/doc/stable/reference/generated/numpy.linalg.svd.html)
+* [Gram–Schmidt process](https://www.section.io/engineering-education/singular-value-decomposition-in-python/)
+* [numpy.linalg.norm](https://numpy.org/doc/stable/reference/generated/numpy.linalg.norm.html)
 
 ### Python Fundamentals:
 [How to open two files together in Python? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-open-two-files-together-in-python/)
