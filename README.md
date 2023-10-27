@@ -3,7 +3,7 @@
     1. Jiajie Yang
     2. Jilsa Chandarana
 ## Introduction
-Any digital image is made up of pixels. Pixel matching is an important concept in computer vision and object recognition. Pixels of the same item can be taken from any angle, with any lighting and scale. For image recognition, it is beneficial to have an efficent algorithm to math two corresponding pixels.
+Any digital image is made up of pixels. Pixel matching is an important concept in computer vision and object recognition. Pixels of the same item can be taken from any angle, with any lighting and scale. For image recognition, it is beneficial to have an efficent algorithm to match two corresponding pixels.
 
 ## Instructions
 1. Users click on a pixel in any image, call the pixel p
